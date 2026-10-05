@@ -107,10 +107,6 @@ Patient Appointments are saved in:
 
 shammas.txt
 
-wasiq.txt
-
-zartashia.txt
-
 Staff Information is saved in:
 
 staff.txt
@@ -124,6 +120,4 @@ Copy
 Edit
 
 ---
-well-documented project.  
 
-Do you want me to **upgrade them with badges and visuals**? That would make them stand out more.
